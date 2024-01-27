@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I chose to be on Github because I love Microsoft :D!
+Thanks for checking out my account, I hope you have a good day.
+
 <!--
 **AkayEskiEvB/AkayEskiEvB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
